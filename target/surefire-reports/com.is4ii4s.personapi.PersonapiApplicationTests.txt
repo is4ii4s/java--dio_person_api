@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.is4ii4s.personapi.PersonapiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.887 s - in com.is4ii4s.personapi.PersonapiApplicationTests
