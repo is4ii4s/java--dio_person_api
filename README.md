@@ -6,7 +6,7 @@ O projeto usa banco de dados em memória H2, para executar as operações de GET
 <br>
 <br>
 
-São necessários os seguintes pré-requisitos para a execução do projeto desenvolvido durante a aula:
+São necessários os seguintes pré-requisitos para a execução do projeto desenvolvido:
 
 - Java 11 ou versões superiores.
 - Maven 3.6.3 ou versões superiores.
