@@ -9,8 +9,6 @@ O projeto usa banco de dados em memória H2, para executar as operações de GET
 São necessários os seguintes pré-requisitos para a execução do projeto desenvolvido:
 
 
-![Tux, the Linux mascot](https://www.canva.com/design/DAEjrMhPyn8/cvOaI9eNJCRmex5zLUDWTA/view?utm_content=DAEjrMhPyn8&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
-
 - Java 11 ou versões superiores.
 - Maven 3.6.3 ou versões superiores.
 - IntelliJ IDEA Community Edition ou sua IDE favorita.
